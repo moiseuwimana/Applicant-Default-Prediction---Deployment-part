@@ -1,0 +1,2 @@
+# Deployment stage
+In the deployment stage, the production-ready folder, containing optimized and finalized code, is prepared for deployment. This phase encompasses the entire deployment pipeline, orchestrated through the continuous integration (CI) process on GitLab. The CI of GitLab automates the steps involved in deploying the application, ensuring a streamlined and efficient deployment process. This includes tasks such as building, testing, and deploying the application to a production environment
